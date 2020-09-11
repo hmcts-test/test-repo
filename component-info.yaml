@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "abcd-asa"
+  description: asa
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
